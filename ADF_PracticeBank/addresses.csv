@@ -1,0 +1,1001 @@
+address_id,user_id,address_type,street,city,state,pincode,country,is_primary
+A00001,U00001,Office,"521, Model Town",Kochi,Kerala,682729,India,Y
+A00002,U00002,Home,"597, MG Road",Bengaluru,Karnataka,560672,India,Y
+A00003,U00003,Office,"665, Gandhi Nagar",Kolkata,West Bengal,700978,India,Y
+A00004,U00004,Home,"589, Residency Road",Bengaluru,Karnataka,560561,India,Y
+A00005,U00005,Office,"868, Ring Road",Jaipur,Rajasthan,302817,India,Y
+A00006,U00006,Home,"533, Sector 21",Ahmedabad,Gujarat,380324,India,Y
+A00007,U00007,Home,"250, Civil Lines",Lucknow,Uttar Pradesh,226248,India,Y
+A00008,U00008,Home,"323, Green Park",Chennai,Tamil Nadu,600995,India,Y
+A00009,U00009,Home,"981, Lake View Colony",Bengaluru,Karnataka,560370,India,Y
+A00010,U00010,Home,"937, Civil Lines",Jaipur,Rajasthan,302669,India,Y
+A00011,U00011,Home,"429, Park Street",Bengaluru,Karnataka,560583,India,Y
+A00012,U00012,Permanent,"251, Lake View Colony",Pune,Maharashtra,411690,India,Y
+A00013,U00013,Home,"815, Nehru Place",Pune,Maharashtra,411349,India,Y
+A00014,U00014,Home,"518, Station Road",Mumbai,Maharashtra,400589,India,Y
+A00015,U00015,Permanent,"898, Sector 21",Bengaluru,Karnataka,560015,India,Y
+A00016,U00016,Home,"568, Green Park",Kolkata,West Bengal,700952,India,Y
+A00017,U00017,Home,"35, Lake View Colony",Mumbai,Maharashtra,400024,India,Y
+A00018,U00018,Home,"888, Ring Road",Mumbai,Maharashtra,400940,India,Y
+A00019,U00019,Home,"412, Green Park",Kolkata,West Bengal,700570,India,Y
+A00020,U00020,Home,"919, Civil Lines",Hyderabad,Telangana,500605,India,Y
+A00021,U00021,Permanent,"47, Gandhi Nagar",Mumbai,Maharashtra,400756,India,N
+A00022,U00022,Permanent,"646, Sector 21",Ahmedabad,Gujarat,380758,India,Y
+A00023,U00023,Office,"717, Station Road",Hyderabad,Telangana,500751,India,Y
+A00024,U00024,Permanent,"960, Ring Road",Lucknow,Uttar Pradesh,226085,India,Y
+A00025,U00025,Home,"379, Residency Road",Delhi,Delhi,110664,India,Y
+A00026,U00026,Home,"521, Green Park",Chennai,Tamil Nadu,600602,India,Y
+A00027,U00027,Home,"506, Civil Lines",Mumbai,Maharashtra,400049,India,Y
+A00028,U00028,Home,"865, Lake View Colony",Jaipur,Rajasthan,302292,India,Y
+A00029,U00029,Office,"977, Station Road",Chennai,Tamil Nadu,600042,India,Y
+A00030,U00030,Permanent,"749, Park Street",Kochi,Kerala,682440,India,Y
+A00031,U00031,Permanent,"322, Gandhi Nagar",Lucknow,Uttar Pradesh,226355,India,Y
+A00032,U00032,Home,"499, Sector 21",Mumbai,Maharashtra,400229,India,Y
+A00033,U00033,Permanent,"266, Model Town",Hyderabad,Telangana,500771,India,Y
+A00034,U00034,Home,"145, Gandhi Nagar",Bengaluru,Karnataka,560211,India,Y
+A00035,U00035,Office,"29, Model Town",Jaipur,Rajasthan,302924,India,Y
+A00036,U00036,Home,"200, MG Road",Jaipur,Rajasthan,302500,India,Y
+A00037,U00037,Home,"289, Model Town",Delhi,Delhi,110436,India,Y
+A00038,U00038,Home,"465, Nehru Place",Jaipur,Rajasthan,302940,India,Y
+A00039,U00039,Permanent,"123, Sector 21",Kochi,Kerala,682910,India,Y
+A00040,U00040,Home,"141, Nehru Place",Hyderabad,Telangana,500749,India,Y
+A00041,U00041,Office,"763, Park Street",Chennai,Tamil Nadu,600744,India,Y
+A00042,U00042,Home,"283, Sector 21",Pune,Maharashtra,411645,India,Y
+A00043,U00043,Office,"724, Green Park",Chandigarh,Chandigarh,160322,India,Y
+A00044,U00044,Home,"955, Green Park",Delhi,Delhi,110813,India,Y
+A00045,U00045,Office,"677, Residency Road",Bengaluru,Karnataka,560036,India,N
+A00046,U00046,Home,"141, Model Town",Chandigarh,Chandigarh,160385,India,Y
+A00047,U00047,Home,"272, Sector 21",Bengaluru,Karnataka,560155,India,Y
+A00048,U00048,Office,"290, Station Road",Pune,Maharashtra,411203,India,Y
+A00049,U00049,Permanent,"878, Green Park",Mumbai,Maharashtra,400767,India,Y
+A00050,U00050,Home,"572, Model Town",Kolkata,West Bengal,700213,India,Y
+A00051,U00051,Home,"270, Model Town",Delhi,Delhi,110389,India,Y
+A00052,U00052,Home,"496, Ring Road",Bengaluru,Karnataka,560672,India,N
+A00053,U00053,Office,"897, Nehru Place",Hyderabad,Telangana,500684,India,Y
+A00054,U00054,Home,"366, Ring Road",Chandigarh,Chandigarh,160492,India,Y
+A00055,U00055,Home,"903, Nehru Place",Bengaluru,Karnataka,560429,India,N
+A00056,U00056,Home,"436, Gandhi Nagar",Chennai,Tamil Nadu,600180,India,Y
+A00057,U00057,Home,"356, Green Park",Chennai,Tamil Nadu,600407,India,Y
+A00058,U00058,Office,"885, Sector 21",Ahmedabad,Gujarat,380615,India,Y
+A00059,U00059,Home,"275, Ring Road",Bengaluru,Karnataka,560220,India,Y
+A00060,U00060,Home,"791, Civil Lines",Kolkata,West Bengal,700267,India,Y
+A00061,U00061,Home,"453, Lake View Colony",Kolkata,West Bengal,700408,India,Y
+A00062,U00062,Home,"746, Park Street",Delhi,Delhi,110347,India,Y
+A00063,U00063,Home,"420, Park Street",Delhi,Delhi,110586,India,Y
+A00064,U00064,Home,"641, Gandhi Nagar",Jaipur,Rajasthan,302970,India,N
+A00065,U00065,Home,"620, Ring Road",Lucknow,Uttar Pradesh,226020,India,N
+A00066,U00066,Office,"93, Green Park",Delhi,Delhi,110341,India,N
+A00067,U00067,Home,"51, Ring Road",Jaipur,Rajasthan,302215,India,Y
+A00068,U00068,Permanent,"859, Ring Road",Bengaluru,Karnataka,560405,India,Y
+A00069,U00069,Home,"166, Civil Lines",Bengaluru,Karnataka,560339,India,Y
+A00070,U00070,Office,"963, MG Road",Jaipur,Rajasthan,302036,India,Y
+A00071,U00071,Home,"408, Sector 21",Jaipur,Rajasthan,302043,India,Y
+A00072,U00072,Home,"647, Green Park",Hyderabad,Telangana,500253,India,Y
+A00073,U00073,Home,"803, Lake View Colony",Kochi,Kerala,682671,India,Y
+A00074,U00074,Permanent,"883, Gandhi Nagar",Kochi,Kerala,682078,India,Y
+A00075,U00075,Office,"751, Lake View Colony",Kochi,Kerala,682020,India,Y
+A00076,U00076,Home,"156, Gandhi Nagar",Jaipur,Rajasthan,302753,India,Y
+A00077,U00077,Home,"621, Nehru Place",Kolkata,West Bengal,700803,India,Y
+A00078,U00078,Office,"310, Nehru Place",Jaipur,Rajasthan,302469,India,Y
+A00079,U00079,Permanent,"591, Sector 21",Hyderabad,Telangana,500385,India,Y
+A00080,U00080,Home,"417, Ring Road",Mumbai,Maharashtra,400285,India,Y
+A00081,U00081,Home,"251, Lake View Colony",Kochi,Kerala,682017,India,N
+A00082,U00082,Home,"382, Ring Road",Kochi,Kerala,682731,India,Y
+A00083,U00083,Home,"26, Lake View Colony",Bengaluru,Karnataka,560789,India,Y
+A00084,U00084,Home,"112, Residency Road",Chennai,Tamil Nadu,600318,India,Y
+A00085,U00085,Permanent,"98, Ring Road",Chandigarh,Chandigarh,160173,India,Y
+A00086,U00086,Home,"86, Station Road",Ahmedabad,Gujarat,380412,India,Y
+A00087,U00087,Home,"860, Model Town",Ahmedabad,Gujarat,380778,India,Y
+A00088,U00088,Home,"319, Green Park",Ahmedabad,Gujarat,380345,India,Y
+A00089,U00089,Home,"579, Model Town",Delhi,Delhi,110416,India,Y
+A00090,U00090,Home,"774, Ring Road",Hyderabad,Telangana,500813,India,Y
+A00091,U00091,Home,"668, Park Street",Ahmedabad,Gujarat,380329,India,Y
+A00092,U00092,Home,"880, Green Park",Ahmedabad,Gujarat,380750,India,Y
+A00093,U00093,Home,"80, Lake View Colony",Mumbai,Maharashtra,400130,India,Y
+A00094,U00094,Home,"125, Station Road",Pune,Maharashtra,411202,India,Y
+A00095,U00095,Home,"435, Sector 21",Mumbai,Maharashtra,400174,India,Y
+A00096,U00096,Home,"767, Ring Road",Jaipur,Rajasthan,302428,India,Y
+A00097,U00097,Home,"302, Green Park",Hyderabad,Telangana,500944,India,Y
+A00098,U00098,Home,"630, Civil Lines",Hyderabad,Telangana,500577,India,Y
+A00099,U00099,Home,"702, Park Street",Pune,Maharashtra,411822,India,Y
+A00100,U00100,Home,"620, Nehru Place",Kochi,Kerala,682483,India,Y
+A00101,U00101,Permanent,"738, Station Road",Chennai,Tamil Nadu,600168,India,Y
+A00102,U00102,Home,"427, Station Road",Ahmedabad,Gujarat,380153,India,Y
+A00103,U00103,Home,"193, Park Street",Delhi,Delhi,110710,India,Y
+A00104,U00104,Home,"63, Model Town",Ahmedabad,Gujarat,380479,India,Y
+A00105,U00105,Home,"573, Park Street",Mumbai,Maharashtra,400353,India,Y
+A00106,U00106,Home,"841, Lake View Colony",Bengaluru,Karnataka,560598,India,Y
+A00107,U00107,Home,"413, Nehru Place",Chennai,Tamil Nadu,600574,India,Y
+A00108,U00108,Home,"607, Station Road",Chandigarh,Chandigarh,160105,India,Y
+A00109,U00109,Home,"578, Gandhi Nagar",Hyderabad,Telangana,500129,India,Y
+A00110,U00110,Home,"393, Civil Lines",Lucknow,Uttar Pradesh,226589,India,Y
+A00111,U00111,Home,"990, Green Park",Lucknow,Uttar Pradesh,226892,India,Y
+A00112,U00112,Home,"3, Park Street",Ahmedabad,Gujarat,380221,India,Y
+A00113,U00113,Home,"169, Sector 21",Lucknow,Uttar Pradesh,226895,India,Y
+A00114,U00114,Permanent,"54, Station Road",Mumbai,Maharashtra,400523,India,Y
+A00115,U00115,Home,"335, Nehru Place",Kolkata,West Bengal,700512,India,Y
+A00116,U00116,Home,"387, Lake View Colony",Bengaluru,Karnataka,560723,India,Y
+A00117,U00117,Office,"325, Ring Road",Hyderabad,Telangana,500080,India,Y
+A00118,U00118,Permanent,"969, Residency Road",Bengaluru,Karnataka,560853,India,Y
+A00119,U00119,Office,"574, Sector 21",Pune,Maharashtra,411501,India,Y
+A00120,U00120,Home,"572, Lake View Colony",Hyderabad,Telangana,500667,India,Y
+A00121,U00121,Permanent,"876, Sector 21",Delhi,Delhi,110789,India,Y
+A00122,U00122,Home,"632, Ring Road",Kochi,Kerala,682897,India,N
+A00123,U00123,Home,"184, Green Park",Bengaluru,Karnataka,560010,India,Y
+A00124,U00124,Home,"6, Model Town",Chennai,Tamil Nadu,600317,India,Y
+A00125,U00125,Permanent,"515, MG Road",Chennai,Tamil Nadu,600621,India,Y
+A00126,U00126,Home,"491, Lake View Colony",Chandigarh,Chandigarh,160044,India,N
+A00127,U00127,Home,"641, MG Road",Kochi,Kerala,682994,India,Y
+A00128,U00128,Permanent,"950, Sector 21",Delhi,Delhi,110622,India,Y
+A00129,U00129,Home,"768, Residency Road",Ahmedabad,Gujarat,380768,India,Y
+A00130,U00130,Home,"30, Model Town",Mumbai,Maharashtra,400915,India,Y
+A00131,U00131,Office,"892, Station Road",Kochi,Kerala,682084,India,Y
+A00132,U00132,Home,"653, Green Park",Mumbai,Maharashtra,400063,India,Y
+A00133,U00133,Home,"874, Park Street",Jaipur,Rajasthan,302670,India,Y
+A00134,U00134,Home,"689, Civil Lines",Delhi,Delhi,110919,India,Y
+A00135,U00135,Office,"376, Ring Road",Lucknow,Uttar Pradesh,226014,India,N
+A00136,U00136,Home,"684, Residency Road",Kolkata,West Bengal,700062,India,Y
+A00137,U00137,Home,"274, Gandhi Nagar",Jaipur,Rajasthan,302176,India,Y
+A00138,U00138,Home,"706, Ring Road",Hyderabad,Telangana,500419,India,Y
+A00139,U00139,Office,"964, MG Road",Kochi,Kerala,682318,India,Y
+A00140,U00140,Home,"478, Model Town",Chennai,Tamil Nadu,600856,India,Y
+A00141,U00141,Permanent,"91, Gandhi Nagar",Lucknow,Uttar Pradesh,226940,India,Y
+A00142,U00142,Home,"326, Model Town",Kochi,Kerala,682641,India,N
+A00143,U00143,Office,"223, Residency Road",Pune,Maharashtra,411383,India,Y
+A00144,U00144,Permanent,"316, Residency Road",Kochi,Kerala,682657,India,N
+A00145,U00145,Office,"756, Station Road",Bengaluru,Karnataka,560317,India,Y
+A00146,U00146,Home,"286, Station Road",Kochi,Kerala,682578,India,Y
+A00147,U00147,Office,"280, Park Street",Bengaluru,Karnataka,560181,India,N
+A00148,U00148,Home,"271, Gandhi Nagar",Hyderabad,Telangana,500501,India,Y
+A00149,U00149,Home,"658, Ring Road",Chennai,Tamil Nadu,600460,India,Y
+A00150,U00150,Office,"38, Model Town",Chandigarh,Chandigarh,160394,India,Y
+A00151,U00151,Home,"720, Lake View Colony",Lucknow,Uttar Pradesh,226355,India,Y
+A00152,U00152,Office,"213, Civil Lines",Chandigarh,Chandigarh,160716,India,N
+A00153,U00153,Office,"814, Nehru Place",Jaipur,Rajasthan,302092,India,Y
+A00154,U00154,Home,"479, Nehru Place",Bengaluru,Karnataka,560032,India,N
+A00155,U00155,Home,"191, Sector 21",Jaipur,Rajasthan,302143,India,Y
+A00156,U00156,Home,"387, Residency Road",Chennai,Tamil Nadu,600602,India,N
+A00157,U00157,Office,"645, Civil Lines",Chennai,Tamil Nadu,600890,India,N
+A00158,U00158,Home,"343, Civil Lines",Pune,Maharashtra,411663,India,N
+A00159,U00159,Permanent,"314, Station Road",Pune,Maharashtra,411478,India,Y
+A00160,U00160,Home,"632, Sector 21",Delhi,Delhi,110607,India,Y
+A00161,U00161,Office,"485, Park Street",Kolkata,West Bengal,700258,India,Y
+A00162,U00162,Home,"695, Lake View Colony",Lucknow,Uttar Pradesh,226307,India,Y
+A00163,U00163,Office,"923, Ring Road",Bengaluru,Karnataka,560110,India,Y
+A00164,U00164,Permanent,"411, Model Town",Hyderabad,Telangana,500029,India,Y
+A00165,U00165,Permanent,"908, Model Town",Pune,Maharashtra,411988,India,Y
+A00166,U00166,Home,"996, Model Town",Jaipur,Rajasthan,302769,India,Y
+A00167,U00167,Home,"983, MG Road",Chandigarh,Chandigarh,160993,India,Y
+A00168,U00168,Office,"470, Lake View Colony",Pune,Maharashtra,411169,India,Y
+A00169,U00169,Home,"905, Station Road",Chandigarh,Chandigarh,160308,India,Y
+A00170,U00170,Home,"209, Lake View Colony",Pune,Maharashtra,411092,India,Y
+A00171,U00171,Home,"866, Civil Lines",Pune,Maharashtra,411005,India,Y
+A00172,U00172,Home,"564, Residency Road",Chennai,Tamil Nadu,600403,India,Y
+A00173,U00173,Home,"852, Sector 21",Ahmedabad,Gujarat,380723,India,Y
+A00174,U00174,Home,"326, Station Road",Mumbai,Maharashtra,400409,India,Y
+A00175,U00175,Office,"748, Lake View Colony",Hyderabad,Telangana,500611,India,Y
+A00176,U00176,Home,"686, Green Park",Mumbai,Maharashtra,400993,India,Y
+A00177,U00177,Permanent,"183, Park Street",Bengaluru,Karnataka,560377,India,Y
+A00178,U00178,Office,"626, Model Town",Jaipur,Rajasthan,302769,India,Y
+A00179,U00179,Home,"142, Sector 21",Mumbai,Maharashtra,400192,India,Y
+A00180,U00180,Home,"348, Lake View Colony",Hyderabad,Telangana,500669,India,Y
+A00181,U00181,Home,"397, Residency Road",Pune,Maharashtra,411840,India,Y
+A00182,U00182,Permanent,"432, Station Road",Hyderabad,Telangana,500167,India,Y
+A00183,U00183,Office,"477, Gandhi Nagar",Jaipur,Rajasthan,302354,India,Y
+A00184,U00184,Home,"415, MG Road",Mumbai,Maharashtra,400164,India,Y
+A00185,U00185,Home,"703, Sector 21",Lucknow,Uttar Pradesh,226011,India,Y
+A00186,U00186,Home,"790, MG Road",Chandigarh,Chandigarh,160310,India,Y
+A00187,U00187,Home,"619, Sector 21",Kochi,Kerala,682514,India,Y
+A00188,U00188,Office,"865, Ring Road",Ahmedabad,Gujarat,380995,India,Y
+A00189,U00189,Permanent,"545, Lake View Colony",Pune,Maharashtra,411891,India,Y
+A00190,U00190,Home,"971, Green Park",Pune,Maharashtra,411604,India,Y
+A00191,U00191,Office,"746, Sector 21",Jaipur,Rajasthan,302445,India,Y
+A00192,U00192,Home,"889, Sector 21",Hyderabad,Telangana,500471,India,Y
+A00193,U00193,Home,"259, Lake View Colony",Lucknow,Uttar Pradesh,226345,India,Y
+A00194,U00194,Home,"184, Nehru Place",Delhi,Delhi,110365,India,Y
+A00195,U00195,Home,"652, MG Road",Ahmedabad,Gujarat,380610,India,Y
+A00196,U00196,Home,"757, Lake View Colony",Kochi,Kerala,682254,India,Y
+A00197,U00197,Home,"745, Station Road",Jaipur,Rajasthan,302648,India,Y
+A00198,U00198,Home,"470, Green Park",Hyderabad,Telangana,500632,India,Y
+A00199,U00199,Office,"583, Sector 21",Kochi,Kerala,682041,India,Y
+A00200,U00200,Home,"624, Green Park",Chennai,Tamil Nadu,600653,India,Y
+A00201,U00201,Home,"743, Gandhi Nagar",Mumbai,Maharashtra,400345,India,N
+A00202,U00202,Home,"411, MG Road",Kochi,Kerala,682188,India,N
+A00203,U00203,Office,"761, Gandhi Nagar",Hyderabad,Telangana,500856,India,N
+A00204,U00204,Office,"585, Nehru Place",Mumbai,Maharashtra,400310,India,Y
+A00205,U00205,Permanent,"250, Green Park",Jaipur,Rajasthan,302818,India,Y
+A00206,U00206,Home,"779, Lake View Colony",Lucknow,Uttar Pradesh,226281,India,Y
+A00207,U00207,Home,"688, MG Road",Pune,Maharashtra,411619,India,Y
+A00208,U00208,Home,"280, MG Road",Pune,Maharashtra,411416,India,Y
+A00209,U00209,Home,"282, Nehru Place",Kolkata,West Bengal,700473,India,Y
+A00210,U00210,Home,"227, Park Street",Chandigarh,Chandigarh,160018,India,Y
+A00211,U00211,Home,"295, Green Park",Bengaluru,Karnataka,560729,India,Y
+A00212,U00212,Home,"651, Model Town",Ahmedabad,Gujarat,380336,India,Y
+A00213,U00213,Permanent,"13, Civil Lines",Ahmedabad,Gujarat,380348,India,Y
+A00214,U00214,Home,"875, Green Park",Ahmedabad,Gujarat,380510,India,Y
+A00215,U00215,Home,"400, Nehru Place",Kochi,Kerala,682412,India,Y
+A00216,U00216,Permanent,"647, Sector 21",Lucknow,Uttar Pradesh,226574,India,N
+A00217,U00217,Home,"543, Civil Lines",Mumbai,Maharashtra,400311,India,Y
+A00218,U00218,Home,"479, MG Road",Chennai,Tamil Nadu,600159,India,Y
+A00219,U00219,Home,"579, Lake View Colony",Pune,Maharashtra,411425,India,N
+A00220,U00220,Office,"291, Ring Road",Delhi,Delhi,110761,India,Y
+A00221,U00221,Home,"551, Station Road",Bengaluru,Karnataka,560387,India,Y
+A00222,U00222,Home,"224, Park Street",Mumbai,Maharashtra,400113,India,Y
+A00223,U00223,Permanent,"786, Green Park",Pune,Maharashtra,411410,India,Y
+A00224,U00224,Office,"429, Model Town",Chennai,Tamil Nadu,600285,India,Y
+A00225,U00225,Home,"681, Residency Road",Chennai,Tamil Nadu,600983,India,Y
+A00226,U00226,Home,"549, Ring Road",Chandigarh,Chandigarh,160401,India,Y
+A00227,U00227,Home,"476, Nehru Place",Kolkata,West Bengal,700845,India,N
+A00228,U00228,Permanent,"182, Lake View Colony",Pune,Maharashtra,411295,India,Y
+A00229,U00229,Office,"672, Station Road",Chennai,Tamil Nadu,600699,India,N
+A00230,U00230,Home,"429, Lake View Colony",Kolkata,West Bengal,700420,India,Y
+A00231,U00231,Home,"142, Model Town",Delhi,Delhi,110634,India,Y
+A00232,U00232,Home,"750, Lake View Colony",Mumbai,Maharashtra,400968,India,Y
+A00233,U00233,Home,"583, Residency Road",Lucknow,Uttar Pradesh,226483,India,Y
+A00234,U00234,Home,"616, Residency Road",Chennai,Tamil Nadu,600398,India,Y
+A00235,U00235,Permanent,"166, Sector 21",Bengaluru,Karnataka,560377,India,Y
+A00236,U00236,Home,"960, Green Park",Bengaluru,Karnataka,560943,India,Y
+A00237,U00237,Home,"916, MG Road",Pune,Maharashtra,411211,India,Y
+A00238,U00238,Home,"618, Sector 21",Ahmedabad,Gujarat,380247,India,Y
+A00239,U00239,Home,"114, Model Town",Ahmedabad,Gujarat,380857,India,Y
+A00240,U00240,Home,"740, Gandhi Nagar",Pune,Maharashtra,411007,India,Y
+A00241,U00241,Home,"888, Ring Road",Chandigarh,Chandigarh,160481,India,Y
+A00242,U00242,Office,"981, Nehru Place",Mumbai,Maharashtra,400904,India,Y
+A00243,U00243,Office,"622, Residency Road",Mumbai,Maharashtra,400546,India,Y
+A00244,U00244,Home,"744, MG Road",Ahmedabad,Gujarat,380299,India,Y
+A00245,U00245,Office,"373, Lake View Colony",Kochi,Kerala,682733,India,N
+A00246,U00246,Home,"439, Gandhi Nagar",Chandigarh,Chandigarh,160106,India,Y
+A00247,U00247,Office,"594, Gandhi Nagar",Hyderabad,Telangana,500739,India,Y
+A00248,U00248,Home,"146, Park Street",Kolkata,West Bengal,700814,India,Y
+A00249,U00249,Home,"658, Green Park",Hyderabad,Telangana,500075,India,Y
+A00250,U00250,Home,"251, Nehru Place",Kochi,Kerala,682350,India,Y
+A00251,U00251,Home,"462, Green Park",Ahmedabad,Gujarat,380264,India,Y
+A00252,U00252,Home,"144, Station Road",Lucknow,Uttar Pradesh,226534,India,Y
+A00253,U00253,Permanent,"578, Civil Lines",Bengaluru,Karnataka,560730,India,Y
+A00254,U00254,Home,"650, Nehru Place",Kochi,Kerala,682486,India,Y
+A00255,U00255,Home,"762, Green Park",Chandigarh,Chandigarh,160131,India,Y
+A00256,U00256,Permanent,"264, Residency Road",Hyderabad,Telangana,500233,India,Y
+A00257,U00257,Home,"152, Model Town",Bengaluru,Karnataka,560012,India,Y
+A00258,U00258,Home,"892, Ring Road",Kochi,Kerala,682415,India,Y
+A00259,U00259,Permanent,"660, Station Road",Pune,Maharashtra,411601,India,Y
+A00260,U00260,Home,"388, Sector 21",Chennai,Tamil Nadu,600663,India,Y
+A00261,U00261,Home,"496, Lake View Colony",Jaipur,Rajasthan,302014,India,Y
+A00262,U00262,Home,"317, Park Street",Mumbai,Maharashtra,400229,India,Y
+A00263,U00263,Office,"809, Gandhi Nagar",Lucknow,Uttar Pradesh,226665,India,Y
+A00264,U00264,Home,"935, Residency Road",Ahmedabad,Gujarat,380928,India,Y
+A00265,U00265,Office,"802, Ring Road",Kochi,Kerala,682919,India,Y
+A00266,U00266,Home,"34, Lake View Colony",Bengaluru,Karnataka,560641,India,Y
+A00267,U00267,Home,"278, Ring Road",Chennai,Tamil Nadu,600984,India,Y
+A00268,U00268,Home,"82, MG Road",Kochi,Kerala,682457,India,Y
+A00269,U00269,Home,"817, Green Park",Bengaluru,Karnataka,560187,India,Y
+A00270,U00270,Permanent,"234, Green Park",Chandigarh,Chandigarh,160734,India,Y
+A00271,U00271,Permanent,"273, Ring Road",Delhi,Delhi,110284,India,Y
+A00272,U00272,Office,"940, Gandhi Nagar",Bengaluru,Karnataka,560927,India,N
+A00273,U00273,Home,"213, Park Street",Jaipur,Rajasthan,302249,India,Y
+A00274,U00274,Home,"101, Ring Road",Lucknow,Uttar Pradesh,226902,India,Y
+A00275,U00275,Office,"75, Park Street",Chennai,Tamil Nadu,600489,India,Y
+A00276,U00276,Home,"103, Ring Road",Mumbai,Maharashtra,400603,India,Y
+A00277,U00277,Home,"10, Model Town",Ahmedabad,Gujarat,380440,India,Y
+A00278,U00278,Office,"454, Residency Road",Mumbai,Maharashtra,400199,India,Y
+A00279,U00279,Home,"468, MG Road",Chandigarh,Chandigarh,160257,India,Y
+A00280,U00280,Home,"647, Station Road",Lucknow,Uttar Pradesh,226336,India,Y
+A00281,U00281,Home,"661, Nehru Place",Jaipur,Rajasthan,302270,India,Y
+A00282,U00282,Home,"695, Ring Road",Bengaluru,Karnataka,560515,India,Y
+A00283,U00283,Home,"775, Station Road",Ahmedabad,Gujarat,380499,India,Y
+A00284,U00284,Home,"168, Station Road",Jaipur,Rajasthan,302067,India,Y
+A00285,U00285,Home,"948, Sector 21",Chandigarh,Chandigarh,160350,India,Y
+A00286,U00286,Office,"199, Gandhi Nagar",Jaipur,Rajasthan,302781,India,Y
+A00287,U00287,Home,"328, Ring Road",Hyderabad,Telangana,500483,India,Y
+A00288,U00288,Permanent,"216, Model Town",Hyderabad,Telangana,500688,India,Y
+A00289,U00289,Home,"406, Station Road",Pune,Maharashtra,411872,India,Y
+A00290,U00290,Home,"980, Ring Road",Chandigarh,Chandigarh,160485,India,Y
+A00291,U00291,Office,"276, Park Street",Kolkata,West Bengal,700955,India,Y
+A00292,U00292,Home,"314, Civil Lines",Hyderabad,Telangana,500744,India,Y
+A00293,U00293,Home,"316, Lake View Colony",Kochi,Kerala,682576,India,Y
+A00294,U00294,Home,"963, Lake View Colony",Kolkata,West Bengal,700056,India,N
+A00295,U00295,Home,"144, Sector 21",Chennai,Tamil Nadu,600785,India,Y
+A00296,U00296,Home,"678, Green Park",Kochi,Kerala,682262,India,Y
+A00297,U00297,Home,"438, Lake View Colony",Chennai,Tamil Nadu,600333,India,Y
+A00298,U00298,Home,"221, Model Town",Kochi,Kerala,682515,India,Y
+A00299,U00299,Home,"249, Station Road",Hyderabad,Telangana,500333,India,Y
+A00300,U00300,Home,"975, MG Road",Kochi,Kerala,682799,India,Y
+A00301,U00301,Permanent,"724, Sector 21",Kochi,Kerala,682255,India,Y
+A00302,U00302,Home,"61, Gandhi Nagar",Lucknow,Uttar Pradesh,226057,India,Y
+A00303,U00303,Home,"449, Nehru Place",Hyderabad,Telangana,500113,India,Y
+A00304,U00304,Home,"794, Green Park",Kochi,Kerala,682423,India,Y
+A00305,U00305,Home,"588, Park Street",Pune,Maharashtra,411575,India,Y
+A00306,U00306,Home,"560, Residency Road",Bengaluru,Karnataka,560266,India,Y
+A00307,U00307,Home,"144, Gandhi Nagar",Hyderabad,Telangana,500891,India,Y
+A00308,U00308,Office,"981, Civil Lines",Kochi,Kerala,682926,India,Y
+A00309,U00309,Permanent,"189, Civil Lines",Kochi,Kerala,682479,India,Y
+A00310,U00310,Home,"694, Green Park",Chennai,Tamil Nadu,600265,India,Y
+A00311,U00311,Permanent,"144, Gandhi Nagar",Kochi,Kerala,682657,India,Y
+A00312,U00312,Office,"818, MG Road",Kolkata,West Bengal,700851,India,Y
+A00313,U00313,Home,"580, Lake View Colony",Jaipur,Rajasthan,302032,India,N
+A00314,U00314,Office,"504, Nehru Place",Chennai,Tamil Nadu,600588,India,Y
+A00315,U00315,Office,"579, Gandhi Nagar",Mumbai,Maharashtra,400997,India,Y
+A00316,U00316,Home,"818, Ring Road",Mumbai,Maharashtra,400866,India,Y
+A00317,U00317,Permanent,"625, Residency Road",Lucknow,Uttar Pradesh,226195,India,Y
+A00318,U00318,Home,"284, Sector 21",Chandigarh,Chandigarh,160462,India,Y
+A00319,U00319,Home,"339, Gandhi Nagar",Kochi,Kerala,682186,India,Y
+A00320,U00320,Home,"800, Green Park",Chennai,Tamil Nadu,600757,India,Y
+A00321,U00321,Permanent,"412, Model Town",Kolkata,West Bengal,700300,India,Y
+A00322,U00322,Home,"231, Civil Lines",Kolkata,West Bengal,700437,India,Y
+A00323,U00323,Home,"787, Civil Lines",Bengaluru,Karnataka,560545,India,Y
+A00324,U00324,Home,"842, Model Town",Chandigarh,Chandigarh,160947,India,Y
+A00325,U00325,Permanent,"157, Park Street",Kochi,Kerala,682791,India,Y
+A00326,U00326,Home,"27, Ring Road",Hyderabad,Telangana,500616,India,N
+A00327,U00327,Office,"554, Civil Lines",Delhi,Delhi,110977,India,Y
+A00328,U00328,Permanent,"674, Park Street",Chennai,Tamil Nadu,600206,India,Y
+A00329,U00329,Permanent,"239, Park Street",Kolkata,West Bengal,700790,India,Y
+A00330,U00330,Permanent,"968, Sector 21",Pune,Maharashtra,411126,India,Y
+A00331,U00331,Home,"889, Green Park",Kolkata,West Bengal,700874,India,Y
+A00332,U00332,Home,"450, Lake View Colony",Kolkata,West Bengal,700203,India,Y
+A00333,U00333,Home,"128, Gandhi Nagar",Kolkata,West Bengal,700992,India,Y
+A00334,U00334,Office,"125, Station Road",Lucknow,Uttar Pradesh,226774,India,Y
+A00335,U00335,Office,"367, Green Park",Ahmedabad,Gujarat,380324,India,Y
+A00336,U00336,Permanent,"819, Ring Road",Bengaluru,Karnataka,560368,India,Y
+A00337,U00337,Home,"468, MG Road",Jaipur,Rajasthan,302007,India,Y
+A00338,U00338,Home,"879, Gandhi Nagar",Kolkata,West Bengal,700363,India,Y
+A00339,U00339,Office,"445, Residency Road",Hyderabad,Telangana,500307,India,Y
+A00340,U00340,Home,"660, Lake View Colony",Kochi,Kerala,682896,India,Y
+A00341,U00341,Office,"919, Civil Lines",Hyderabad,Telangana,500046,India,Y
+A00342,U00342,Home,"10, Station Road",Bengaluru,Karnataka,560531,India,Y
+A00343,U00343,Home,"40, MG Road",Kochi,Kerala,682610,India,Y
+A00344,U00344,Home,"381, Model Town",Kochi,Kerala,682424,India,Y
+A00345,U00345,Home,"959, Ring Road",Kolkata,West Bengal,700988,India,Y
+A00346,U00346,Home,"901, Gandhi Nagar",Chandigarh,Chandigarh,160805,India,Y
+A00347,U00347,Home,"414, Residency Road",Ahmedabad,Gujarat,380382,India,N
+A00348,U00348,Home,"30, MG Road",Hyderabad,Telangana,500339,India,Y
+A00349,U00349,Home,"893, Station Road",Ahmedabad,Gujarat,380935,India,Y
+A00350,U00350,Home,"613, Green Park",Jaipur,Rajasthan,302537,India,Y
+A00351,U00351,Home,"919, Park Street",Mumbai,Maharashtra,400094,India,Y
+A00352,U00352,Home,"488, Sector 21",Mumbai,Maharashtra,400425,India,Y
+A00353,U00353,Home,"878, Model Town",Jaipur,Rajasthan,302828,India,Y
+A00354,U00354,Home,"922, Nehru Place",Hyderabad,Telangana,500131,India,Y
+A00355,U00355,Home,"629, Residency Road",Jaipur,Rajasthan,302733,India,Y
+A00356,U00356,Office,"873, Model Town",Ahmedabad,Gujarat,380200,India,Y
+A00357,U00357,Home,"965, Station Road",Jaipur,Rajasthan,302230,India,Y
+A00358,U00358,Home,"414, Nehru Place",Kochi,Kerala,682908,India,Y
+A00359,U00359,Home,"190, Green Park",Bengaluru,Karnataka,560675,India,Y
+A00360,U00360,Permanent,"685, Model Town",Kochi,Kerala,682532,India,Y
+A00361,U00361,Office,"135, Civil Lines",Hyderabad,Telangana,500432,India,Y
+A00362,U00362,Home,"958, MG Road",Pune,Maharashtra,411765,India,N
+A00363,U00363,Home,"814, Park Street",Kolkata,West Bengal,700186,India,Y
+A00364,U00364,Home,"814, Park Street",Chandigarh,Chandigarh,160165,India,Y
+A00365,U00365,Home,"496, Civil Lines",Delhi,Delhi,110192,India,Y
+A00366,U00366,Home,"220, Sector 21",Lucknow,Uttar Pradesh,226636,India,Y
+A00367,U00367,Home,"287, Residency Road",Ahmedabad,Gujarat,380786,India,Y
+A00368,U00368,Home,"914, Station Road",Chennai,Tamil Nadu,600261,India,Y
+A00369,U00369,Office,"468, Residency Road",Ahmedabad,Gujarat,380098,India,Y
+A00370,U00370,Office,"270, Gandhi Nagar",Chennai,Tamil Nadu,600800,India,Y
+A00371,U00371,Home,"557, Station Road",Chandigarh,Chandigarh,160096,India,Y
+A00372,U00372,Office,"124, Ring Road",Ahmedabad,Gujarat,380729,India,Y
+A00373,U00373,Home,"447, Ring Road",Chennai,Tamil Nadu,600962,India,Y
+A00374,U00374,Home,"840, Ring Road",Jaipur,Rajasthan,302199,India,Y
+A00375,U00375,Home,"18, Park Street",Chandigarh,Chandigarh,160751,India,Y
+A00376,U00376,Home,"156, Model Town",Jaipur,Rajasthan,302880,India,Y
+A00377,U00377,Office,"372, Ring Road",Delhi,Delhi,110235,India,Y
+A00378,U00378,Home,"163, Gandhi Nagar",Jaipur,Rajasthan,302696,India,Y
+A00379,U00379,Permanent,"232, Green Park",Chandigarh,Chandigarh,160155,India,Y
+A00380,U00380,Home,"208, Nehru Place",Lucknow,Uttar Pradesh,226050,India,N
+A00381,U00381,Home,"923, Ring Road",Kolkata,West Bengal,700995,India,Y
+A00382,U00382,Home,"140, Green Park",Ahmedabad,Gujarat,380960,India,Y
+A00383,U00383,Home,"570, Residency Road",Mumbai,Maharashtra,400319,India,Y
+A00384,U00384,Home,"983, Gandhi Nagar",Kochi,Kerala,682060,India,Y
+A00385,U00385,Home,"843, Station Road",Pune,Maharashtra,411782,India,N
+A00386,U00386,Home,"164, Residency Road",Bengaluru,Karnataka,560429,India,Y
+A00387,U00387,Home,"359, Gandhi Nagar",Bengaluru,Karnataka,560231,India,N
+A00388,U00388,Home,"412, Gandhi Nagar",Hyderabad,Telangana,500743,India,Y
+A00389,U00389,Home,"455, Station Road",Chandigarh,Chandigarh,160688,India,Y
+A00390,U00390,Home,"121, Ring Road",Chennai,Tamil Nadu,600318,India,Y
+A00391,U00391,Home,"238, Residency Road",Chandigarh,Chandigarh,160448,India,Y
+A00392,U00392,Home,"625, Sector 21",Mumbai,Maharashtra,400157,India,Y
+A00393,U00393,Home,"279, MG Road",Kochi,Kerala,682390,India,Y
+A00394,U00394,Home,"478, Lake View Colony",Hyderabad,Telangana,500599,India,Y
+A00395,U00395,Home,"814, Sector 21",Kochi,Kerala,682776,India,Y
+A00396,U00396,Home,"750, Model Town",Jaipur,Rajasthan,302982,India,Y
+A00397,U00397,Home,"871, Residency Road",Chennai,Tamil Nadu,600506,India,Y
+A00398,U00398,Home,"654, Gandhi Nagar",Kolkata,West Bengal,700885,India,Y
+A00399,U00399,Office,"927, Nehru Place",Kochi,Kerala,682655,India,Y
+A00400,U00400,Home,"258, Civil Lines",Kolkata,West Bengal,700085,India,Y
+A00401,U00401,Office,"249, Model Town",Kochi,Kerala,682506,India,Y
+A00402,U00402,Home,"107, Green Park",Kolkata,West Bengal,700499,India,Y
+A00403,U00403,Home,"532, Residency Road",Lucknow,Uttar Pradesh,226391,India,Y
+A00404,U00404,Home,"813, Residency Road",Mumbai,Maharashtra,400976,India,Y
+A00405,U00405,Home,"783, Park Street",Mumbai,Maharashtra,400369,India,Y
+A00406,U00406,Permanent,"432, Lake View Colony",Kochi,Kerala,682735,India,Y
+A00407,U00407,Home,"451, Sector 21",Chennai,Tamil Nadu,600587,India,Y
+A00408,U00408,Permanent,"833, Residency Road",Delhi,Delhi,110762,India,Y
+A00409,U00409,Permanent,"222, Model Town",Chandigarh,Chandigarh,160185,India,Y
+A00410,U00410,Home,"943, Lake View Colony",Chennai,Tamil Nadu,600821,India,Y
+A00411,U00411,Office,"260, Civil Lines",Ahmedabad,Gujarat,380838,India,Y
+A00412,U00412,Permanent,"255, Nehru Place",Chennai,Tamil Nadu,600456,India,Y
+A00413,U00413,Home,"651, Nehru Place",Chennai,Tamil Nadu,600787,India,Y
+A00414,U00414,Home,"885, Ring Road",Bengaluru,Karnataka,560663,India,Y
+A00415,U00415,Office,"800, Station Road",Kolkata,West Bengal,700864,India,Y
+A00416,U00416,Home,"632, Ring Road",Mumbai,Maharashtra,400757,India,Y
+A00417,U00417,Home,"314, Gandhi Nagar",Bengaluru,Karnataka,560936,India,Y
+A00418,U00418,Home,"637, Sector 21",Chandigarh,Chandigarh,160654,India,Y
+A00419,U00419,Home,"877, Green Park",Kolkata,West Bengal,700497,India,Y
+A00420,U00420,Permanent,"773, Station Road",Ahmedabad,Gujarat,380982,India,Y
+A00421,U00421,Home,"596, Nehru Place",Delhi,Delhi,110930,India,Y
+A00422,U00422,Home,"775, Ring Road",Chandigarh,Chandigarh,160551,India,Y
+A00423,U00423,Home,"204, Gandhi Nagar",Lucknow,Uttar Pradesh,226092,India,Y
+A00424,U00424,Home,"270, Station Road",Chandigarh,Chandigarh,160733,India,Y
+A00425,U00425,Home,"944, Lake View Colony",Chennai,Tamil Nadu,600106,India,Y
+A00426,U00426,Office,"909, Nehru Place",Kochi,Kerala,682628,India,Y
+A00427,U00427,Home,"231, Sector 21",Mumbai,Maharashtra,400845,India,Y
+A00428,U00428,Home,"281, MG Road",Jaipur,Rajasthan,302506,India,Y
+A00429,U00429,Permanent,"252, Park Street",Kochi,Kerala,682450,India,Y
+A00430,U00430,Home,"304, Park Street",Bengaluru,Karnataka,560987,India,Y
+A00431,U00431,Home,"450, Lake View Colony",Lucknow,Uttar Pradesh,226569,India,Y
+A00432,U00432,Home,"191, Ring Road",Lucknow,Uttar Pradesh,226594,India,Y
+A00433,U00433,Permanent,"397, Green Park",Lucknow,Uttar Pradesh,226267,India,Y
+A00434,U00434,Office,"270, Lake View Colony",Chennai,Tamil Nadu,600379,India,Y
+A00435,U00435,Home,"366, Gandhi Nagar",Bengaluru,Karnataka,560981,India,Y
+A00436,U00436,Permanent,"720, Park Street",Chennai,Tamil Nadu,600814,India,Y
+A00437,U00437,Home,"940, Ring Road",Pune,Maharashtra,411725,India,Y
+A00438,U00438,Home,"847, Model Town",Chennai,Tamil Nadu,600233,India,Y
+A00439,U00439,Office,"568, Park Street",Kochi,Kerala,682476,India,Y
+A00440,U00440,Home,"449, Sector 21",Delhi,Delhi,110605,India,Y
+A00441,U00441,Home,"460, Ring Road",Pune,Maharashtra,411665,India,Y
+A00442,U00442,Home,"724, Station Road",Chennai,Tamil Nadu,600065,India,Y
+A00443,U00443,Permanent,"283, Model Town",Mumbai,Maharashtra,400258,India,N
+A00444,U00444,Home,"613, Sector 21",Kochi,Kerala,682441,India,Y
+A00445,U00445,Permanent,"221, Residency Road",Pune,Maharashtra,411462,India,Y
+A00446,U00446,Home,"339, Park Street",Kochi,Kerala,682583,India,Y
+A00447,U00447,Permanent,"148, Ring Road",Jaipur,Rajasthan,302697,India,Y
+A00448,U00448,Permanent,"55, Green Park",Delhi,Delhi,110772,India,Y
+A00449,U00449,Office,"73, Model Town",Mumbai,Maharashtra,400065,India,Y
+A00450,U00450,Home,"200, Park Street",Kochi,Kerala,682615,India,Y
+A00451,U00451,Office,"31, Residency Road",Pune,Maharashtra,411951,India,Y
+A00452,U00452,Home,"97, Lake View Colony",Mumbai,Maharashtra,400587,India,Y
+A00453,U00453,Home,"418, Lake View Colony",Chandigarh,Chandigarh,160713,India,Y
+A00454,U00454,Home,"319, Civil Lines",Chennai,Tamil Nadu,600181,India,Y
+A00455,U00455,Home,"189, Nehru Place",Hyderabad,Telangana,500411,India,Y
+A00456,U00456,Permanent,"649, Gandhi Nagar",Chennai,Tamil Nadu,600347,India,Y
+A00457,U00457,Home,"21, Model Town",Mumbai,Maharashtra,400062,India,N
+A00458,U00458,Home,"98, Station Road",Delhi,Delhi,110001,India,N
+A00459,U00459,Home,"335, Lake View Colony",Jaipur,Rajasthan,302313,India,Y
+A00460,U00460,Home,"880, Gandhi Nagar",Lucknow,Uttar Pradesh,226978,India,Y
+A00461,U00461,Home,"187, Ring Road",Chandigarh,Chandigarh,160223,India,N
+A00462,U00462,Permanent,"935, Station Road",Mumbai,Maharashtra,400614,India,Y
+A00463,U00463,Permanent,"724, Station Road",Pune,Maharashtra,411519,India,Y
+A00464,U00464,Home,"40, Ring Road",Ahmedabad,Gujarat,380909,India,N
+A00465,U00465,Office,"320, Nehru Place",Mumbai,Maharashtra,400110,India,Y
+A00466,U00466,Home,"172, Gandhi Nagar",Pune,Maharashtra,411509,India,Y
+A00467,U00467,Permanent,"943, Civil Lines",Pune,Maharashtra,411960,India,Y
+A00468,U00468,Home,"399, Sector 21",Chandigarh,Chandigarh,160966,India,Y
+A00469,U00469,Home,"253, Civil Lines",Jaipur,Rajasthan,302144,India,Y
+A00470,U00470,Home,"414, MG Road",Ahmedabad,Gujarat,380366,India,Y
+A00471,U00471,Office,"932, Residency Road",Ahmedabad,Gujarat,380724,India,Y
+A00472,U00472,Home,"533, Gandhi Nagar",Lucknow,Uttar Pradesh,226679,India,Y
+A00473,U00473,Home,"720, Ring Road",Jaipur,Rajasthan,302534,India,Y
+A00474,U00474,Home,"290, Civil Lines",Jaipur,Rajasthan,302138,India,Y
+A00475,U00475,Home,"642, Lake View Colony",Bengaluru,Karnataka,560413,India,Y
+A00476,U00476,Home,"504, Gandhi Nagar",Mumbai,Maharashtra,400329,India,Y
+A00477,U00477,Home,"510, Nehru Place",Lucknow,Uttar Pradesh,226789,India,Y
+A00478,U00478,Home,"43, Park Street",Delhi,Delhi,110969,India,Y
+A00479,U00479,Office,"585, Ring Road",Lucknow,Uttar Pradesh,226177,India,Y
+A00480,U00480,Home,"29, MG Road",Kochi,Kerala,682989,India,Y
+A00481,U00481,Home,"551, MG Road",Bengaluru,Karnataka,560843,India,Y
+A00482,U00482,Office,"537, Station Road",Kolkata,West Bengal,700520,India,Y
+A00483,U00483,Home,"220, Gandhi Nagar",Kochi,Kerala,682468,India,N
+A00484,U00484,Office,"75, Green Park",Bengaluru,Karnataka,560208,India,Y
+A00485,U00485,Home,"16, MG Road",Lucknow,Uttar Pradesh,226944,India,Y
+A00486,U00486,Home,"298, MG Road",Kochi,Kerala,682926,India,Y
+A00487,U00487,Permanent,"400, Park Street",Chennai,Tamil Nadu,600380,India,N
+A00488,U00488,Home,"146, Model Town",Kolkata,West Bengal,700252,India,Y
+A00489,U00489,Permanent,"433, Residency Road",Hyderabad,Telangana,500584,India,Y
+A00490,U00490,Home,"963, Residency Road",Chandigarh,Chandigarh,160754,India,N
+A00491,U00491,Home,"426, Lake View Colony",Kolkata,West Bengal,700386,India,Y
+A00492,U00492,Office,"500, Nehru Place",Bengaluru,Karnataka,560614,India,Y
+A00493,U00493,Home,"713, Sector 21",Kochi,Kerala,682131,India,Y
+A00494,U00494,Home,"118, Gandhi Nagar",Bengaluru,Karnataka,560162,India,N
+A00495,U00495,Home,"550, Civil Lines",Ahmedabad,Gujarat,380171,India,N
+A00496,U00496,Permanent,"733, Green Park",Hyderabad,Telangana,500407,India,Y
+A00497,U00497,Home,"584, Nehru Place",Hyderabad,Telangana,500111,India,Y
+A00498,U00498,Office,"906, Park Street",Kolkata,West Bengal,700973,India,Y
+A00499,U00499,Home,"531, MG Road",Ahmedabad,Gujarat,380480,India,Y
+A00500,U00500,Home,"854, Lake View Colony",Mumbai,Maharashtra,400188,India,Y
+A00501,U00501,Office,"248, Lake View Colony",Kochi,Kerala,682630,India,Y
+A00502,U00502,Home,"612, MG Road",Kochi,Kerala,682678,India,N
+A00503,U00503,Office,"743, Civil Lines",Bengaluru,Karnataka,560044,India,Y
+A00504,U00504,Home,"974, Nehru Place",Pune,Maharashtra,411943,India,Y
+A00505,U00505,Home,"660, MG Road",Ahmedabad,Gujarat,380400,India,Y
+A00506,U00506,Home,"231, Station Road",Hyderabad,Telangana,500642,India,Y
+A00507,U00507,Office,"26, Sector 21",Chandigarh,Chandigarh,160071,India,Y
+A00508,U00508,Home,"571, Station Road",Lucknow,Uttar Pradesh,226146,India,Y
+A00509,U00509,Home,"702, Gandhi Nagar",Chennai,Tamil Nadu,600419,India,Y
+A00510,U00510,Home,"174, Green Park",Delhi,Delhi,110955,India,Y
+A00511,U00511,Home,"107, Residency Road",Delhi,Delhi,110239,India,Y
+A00512,U00512,Home,"834, Lake View Colony",Delhi,Delhi,110787,India,Y
+A00513,U00513,Office,"37, Model Town",Bengaluru,Karnataka,560558,India,Y
+A00514,U00514,Office,"488, Model Town",Chandigarh,Chandigarh,160660,India,Y
+A00515,U00515,Home,"461, Green Park",Chandigarh,Chandigarh,160243,India,Y
+A00516,U00516,Home,"652, Sector 21",Lucknow,Uttar Pradesh,226490,India,N
+A00517,U00517,Home,"901, Civil Lines",Pune,Maharashtra,411229,India,Y
+A00518,U00518,Office,"987, Lake View Colony",Chandigarh,Chandigarh,160263,India,Y
+A00519,U00519,Office,"443, Nehru Place",Chennai,Tamil Nadu,600147,India,Y
+A00520,U00520,Office,"555, Park Street",Kolkata,West Bengal,700411,India,Y
+A00521,U00521,Home,"965, Lake View Colony",Chandigarh,Chandigarh,160431,India,Y
+A00522,U00522,Office,"455, Lake View Colony",Ahmedabad,Gujarat,380474,India,Y
+A00523,U00523,Home,"137, Green Park",Chennai,Tamil Nadu,600542,India,Y
+A00524,U00524,Office,"583, Park Street",Bengaluru,Karnataka,560970,India,Y
+A00525,U00525,Office,"373, Sector 21",Chandigarh,Chandigarh,160561,India,Y
+A00526,U00526,Home,"315, Park Street",Kolkata,West Bengal,700402,India,Y
+A00527,U00527,Home,"464, Nehru Place",Mumbai,Maharashtra,400926,India,Y
+A00528,U00528,Home,"205, Park Street",Lucknow,Uttar Pradesh,226345,India,Y
+A00529,U00529,Home,"960, Ring Road",Pune,Maharashtra,411442,India,Y
+A00530,U00530,Home,"212, Lake View Colony",Ahmedabad,Gujarat,380581,India,Y
+A00531,U00531,Permanent,"697, Model Town",Hyderabad,Telangana,500787,India,Y
+A00532,U00532,Home,"821, Park Street",Kolkata,West Bengal,700154,India,Y
+A00533,U00533,Home,"757, Station Road",Ahmedabad,Gujarat,380780,India,N
+A00534,U00534,Home,"782, Model Town",Chennai,Tamil Nadu,600543,India,Y
+A00535,U00535,Home,"806, Gandhi Nagar",Delhi,Delhi,110087,India,Y
+A00536,U00536,Home,"93, Civil Lines",Delhi,Delhi,110953,India,N
+A00537,U00537,Office,"981, Park Street",Bengaluru,Karnataka,560314,India,Y
+A00538,U00538,Home,"324, Model Town",Chennai,Tamil Nadu,600926,India,Y
+A00539,U00539,Home,"180, Nehru Place",Ahmedabad,Gujarat,380310,India,Y
+A00540,U00540,Home,"902, Station Road",Jaipur,Rajasthan,302167,India,Y
+A00541,U00541,Permanent,"420, Station Road",Jaipur,Rajasthan,302575,India,Y
+A00542,U00542,Home,"288, Green Park",Ahmedabad,Gujarat,380868,India,N
+A00543,U00543,Home,"151, Sector 21",Mumbai,Maharashtra,400099,India,Y
+A00544,U00544,Permanent,"485, Lake View Colony",Pune,Maharashtra,411488,India,Y
+A00545,U00545,Home,"838, Civil Lines",Delhi,Delhi,110953,India,Y
+A00546,U00546,Home,"916, MG Road",Lucknow,Uttar Pradesh,226993,India,Y
+A00547,U00547,Home,"907, Civil Lines",Chandigarh,Chandigarh,160087,India,Y
+A00548,U00548,Home,"640, Nehru Place",Mumbai,Maharashtra,400693,India,Y
+A00549,U00549,Home,"958, Residency Road",Pune,Maharashtra,411201,India,N
+A00550,U00550,Home,"812, Gandhi Nagar",Chennai,Tamil Nadu,600363,India,Y
+A00551,U00551,Home,"913, Model Town",Ahmedabad,Gujarat,380427,India,N
+A00552,U00552,Permanent,"197, Ring Road",Chennai,Tamil Nadu,600286,India,N
+A00553,U00553,Home,"928, Station Road",Delhi,Delhi,110053,India,Y
+A00554,U00554,Home,"460, Lake View Colony",Kochi,Kerala,682345,India,Y
+A00555,U00555,Permanent,"673, Sector 21",Kochi,Kerala,682675,India,Y
+A00556,U00556,Home,"893, Model Town",Jaipur,Rajasthan,302010,India,Y
+A00557,U00557,Home,"205, Sector 21",Delhi,Delhi,110389,India,Y
+A00558,U00558,Home,"714, Lake View Colony",Kochi,Kerala,682343,India,Y
+A00559,U00559,Permanent,"803, Lake View Colony",Jaipur,Rajasthan,302416,India,Y
+A00560,U00560,Permanent,"737, Nehru Place",Pune,Maharashtra,411565,India,Y
+A00561,U00561,Home,"936, Sector 21",Hyderabad,Telangana,500940,India,Y
+A00562,U00562,Permanent,"883, Ring Road",Chandigarh,Chandigarh,160917,India,Y
+A00563,U00563,Office,"110, Park Street",Pune,Maharashtra,411076,India,Y
+A00564,U00564,Home,"821, Park Street",Mumbai,Maharashtra,400797,India,Y
+A00565,U00565,Home,"14, Green Park",Mumbai,Maharashtra,400826,India,Y
+A00566,U00566,Home,"597, Residency Road",Lucknow,Uttar Pradesh,226988,India,Y
+A00567,U00567,Home,"339, Residency Road",Ahmedabad,Gujarat,380108,India,Y
+A00568,U00568,Office,"205, Green Park",Delhi,Delhi,110948,India,Y
+A00569,U00569,Office,"94, MG Road",Mumbai,Maharashtra,400443,India,Y
+A00570,U00570,Home,"735, Gandhi Nagar",Bengaluru,Karnataka,560396,India,Y
+A00571,U00571,Home,"838, Park Street",Jaipur,Rajasthan,302725,India,N
+A00572,U00572,Office,"481, Nehru Place",Lucknow,Uttar Pradesh,226749,India,Y
+A00573,U00573,Home,"520, MG Road",Delhi,Delhi,110081,India,Y
+A00574,U00574,Home,"900, Ring Road",Bengaluru,Karnataka,560589,India,N
+A00575,U00575,Home,"780, Gandhi Nagar",Kochi,Kerala,682192,India,Y
+A00576,U00576,Office,"234, Station Road",Chennai,Tamil Nadu,600404,India,Y
+A00577,U00577,Home,"423, Ring Road",Lucknow,Uttar Pradesh,226655,India,Y
+A00578,U00578,Home,"354, Green Park",Kolkata,West Bengal,700246,India,Y
+A00579,U00579,Permanent,"700, Nehru Place",Chandigarh,Chandigarh,160288,India,Y
+A00580,U00580,Home,"506, Civil Lines",Mumbai,Maharashtra,400924,India,Y
+A00581,U00581,Office,"441, Gandhi Nagar",Lucknow,Uttar Pradesh,226690,India,Y
+A00582,U00582,Home,"763, Residency Road",Kochi,Kerala,682090,India,Y
+A00583,U00583,Home,"621, Residency Road",Chennai,Tamil Nadu,600982,India,Y
+A00584,U00584,Office,"327, Sector 21",Hyderabad,Telangana,500366,India,Y
+A00585,U00585,Home,"308, Sector 21",Ahmedabad,Gujarat,380320,India,Y
+A00586,U00586,Home,"602, Station Road",Kochi,Kerala,682043,India,Y
+A00587,U00587,Home,"473, Civil Lines",Kolkata,West Bengal,700945,India,Y
+A00588,U00588,Home,"921, Sector 21",Kolkata,West Bengal,700463,India,Y
+A00589,U00589,Office,"430, MG Road",Kochi,Kerala,682894,India,Y
+A00590,U00590,Home,"892, Residency Road",Chennai,Tamil Nadu,600152,India,Y
+A00591,U00591,Home,"838, Residency Road",Delhi,Delhi,110927,India,Y
+A00592,U00592,Permanent,"223, Gandhi Nagar",Lucknow,Uttar Pradesh,226016,India,Y
+A00593,U00593,Home,"203, MG Road",Pune,Maharashtra,411509,India,Y
+A00594,U00594,Office,"875, Ring Road",Hyderabad,Telangana,500284,India,Y
+A00595,U00595,Home,"512, Lake View Colony",Ahmedabad,Gujarat,380445,India,N
+A00596,U00596,Home,"682, MG Road",Pune,Maharashtra,411361,India,N
+A00597,U00597,Permanent,"723, Sector 21",Mumbai,Maharashtra,400622,India,Y
+A00598,U00598,Home,"507, Park Street",Bengaluru,Karnataka,560426,India,Y
+A00599,U00599,Home,"347, Residency Road",Hyderabad,Telangana,500318,India,Y
+A00600,U00600,Home,"614, Station Road",Kolkata,West Bengal,700542,India,Y
+A00601,U00601,Home,"706, Station Road",Kochi,Kerala,682378,India,Y
+A00602,U00602,Home,"458, Civil Lines",Ahmedabad,Gujarat,380427,India,Y
+A00603,U00603,Home,"932, Civil Lines",Chennai,Tamil Nadu,600649,India,N
+A00604,U00604,Office,"569, Civil Lines",Ahmedabad,Gujarat,380591,India,Y
+A00605,U00605,Home,"131, Civil Lines",Kochi,Kerala,682800,India,Y
+A00606,U00606,Office,"625, Park Street",Bengaluru,Karnataka,560832,India,Y
+A00607,U00607,Home,"912, MG Road",Ahmedabad,Gujarat,380320,India,Y
+A00608,U00608,Home,"152, Model Town",Mumbai,Maharashtra,400329,India,Y
+A00609,U00609,Home,"923, Green Park",Ahmedabad,Gujarat,380272,India,Y
+A00610,U00610,Office,"811, Nehru Place",Kolkata,West Bengal,700728,India,Y
+A00611,U00611,Home,"229, Residency Road",Delhi,Delhi,110003,India,Y
+A00612,U00612,Home,"150, Nehru Place",Lucknow,Uttar Pradesh,226979,India,Y
+A00613,U00613,Home,"550, Park Street",Chennai,Tamil Nadu,600843,India,Y
+A00614,U00614,Permanent,"612, Model Town",Bengaluru,Karnataka,560123,India,Y
+A00615,U00615,Office,"200, Ring Road",Delhi,Delhi,110818,India,Y
+A00616,U00616,Office,"434, Green Park",Bengaluru,Karnataka,560838,India,Y
+A00617,U00617,Home,"148, Nehru Place",Hyderabad,Telangana,500025,India,Y
+A00618,U00618,Office,"81, Civil Lines",Chandigarh,Chandigarh,160476,India,Y
+A00619,U00619,Home,"392, Ring Road",Pune,Maharashtra,411160,India,Y
+A00620,U00620,Home,"281, Sector 21",Chennai,Tamil Nadu,600282,India,Y
+A00621,U00621,Home,"167, Model Town",Lucknow,Uttar Pradesh,226131,India,Y
+A00622,U00622,Home,"889, Civil Lines",Delhi,Delhi,110565,India,Y
+A00623,U00623,Home,"738, Lake View Colony",Pune,Maharashtra,411563,India,Y
+A00624,U00624,Home,"406, Station Road",Kolkata,West Bengal,700334,India,Y
+A00625,U00625,Home,"332, Model Town",Delhi,Delhi,110774,India,Y
+A00626,U00626,Home,"735, Green Park",Jaipur,Rajasthan,302135,India,Y
+A00627,U00627,Home,"105, Ring Road",Mumbai,Maharashtra,400167,India,N
+A00628,U00628,Home,"369, Civil Lines",Bengaluru,Karnataka,560346,India,Y
+A00629,U00629,Office,"505, Lake View Colony",Chennai,Tamil Nadu,600558,India,Y
+A00630,U00630,Home,"406, Green Park",Kolkata,West Bengal,700158,India,Y
+A00631,U00631,Office,"460, Station Road",Mumbai,Maharashtra,400118,India,Y
+A00632,U00632,Home,"58, Residency Road",Hyderabad,Telangana,500699,India,Y
+A00633,U00633,Home,"715, Park Street",Delhi,Delhi,110490,India,Y
+A00634,U00634,Office,"973, Station Road",Bengaluru,Karnataka,560977,India,Y
+A00635,U00635,Home,"397, Residency Road",Jaipur,Rajasthan,302686,India,Y
+A00636,U00636,Office,"505, MG Road",Jaipur,Rajasthan,302685,India,Y
+A00637,U00637,Home,"42, Park Street",Kolkata,West Bengal,700603,India,Y
+A00638,U00638,Home,"8, Civil Lines",Bengaluru,Karnataka,560718,India,Y
+A00639,U00639,Home,"849, Station Road",Chennai,Tamil Nadu,600406,India,Y
+A00640,U00640,Home,"643, Green Park",Jaipur,Rajasthan,302637,India,Y
+A00641,U00641,Home,"398, Station Road",Jaipur,Rajasthan,302854,India,Y
+A00642,U00642,Home,"201, Civil Lines",Lucknow,Uttar Pradesh,226919,India,Y
+A00643,U00643,Home,"463, MG Road",Mumbai,Maharashtra,400456,India,Y
+A00644,U00644,Home,"789, Lake View Colony",Chandigarh,Chandigarh,160209,India,Y
+A00645,U00645,Home,"110, Green Park",Delhi,Delhi,110955,India,Y
+A00646,U00646,Office,"754, Green Park",Bengaluru,Karnataka,560305,India,Y
+A00647,U00647,Home,"608, Nehru Place",Chandigarh,Chandigarh,160369,India,Y
+A00648,U00648,Home,"581, Nehru Place",Chandigarh,Chandigarh,160222,India,Y
+A00649,U00649,Home,"850, Station Road",Hyderabad,Telangana,500881,India,Y
+A00650,U00650,Permanent,"398, Green Park",Ahmedabad,Gujarat,380335,India,Y
+A00651,U00651,Home,"170, Sector 21",Kolkata,West Bengal,700491,India,Y
+A00652,U00652,Office,"684, Park Street",Hyderabad,Telangana,500079,India,Y
+A00653,U00653,Permanent,"635, MG Road",Delhi,Delhi,110877,India,Y
+A00654,U00654,Permanent,"311, Sector 21",Hyderabad,Telangana,500390,India,Y
+A00655,U00655,Home,"377, Park Street",Pune,Maharashtra,411661,India,Y
+A00656,U00656,Office,"382, Gandhi Nagar",Kolkata,West Bengal,700286,India,Y
+A00657,U00657,Home,"36, Gandhi Nagar",Delhi,Delhi,110309,India,Y
+A00658,U00658,Permanent,"909, Park Street",Ahmedabad,Gujarat,380123,India,N
+A00659,U00659,Permanent,"812, MG Road",Kochi,Kerala,682901,India,N
+A00660,U00660,Home,"116, Gandhi Nagar",Ahmedabad,Gujarat,380742,India,Y
+A00661,U00661,Home,"280, Nehru Place",Lucknow,Uttar Pradesh,226023,India,Y
+A00662,U00662,Home,"709, Station Road",Ahmedabad,Gujarat,380220,India,Y
+A00663,U00663,Home,"39, Sector 21",Chandigarh,Chandigarh,160442,India,Y
+A00664,U00664,Home,"14, Model Town",Kolkata,West Bengal,700918,India,Y
+A00665,U00665,Permanent,"898, Nehru Place",Mumbai,Maharashtra,400726,India,Y
+A00666,U00666,Home,"274, MG Road",Ahmedabad,Gujarat,380687,India,Y
+A00667,U00667,Home,"459, MG Road",Bengaluru,Karnataka,560665,India,Y
+A00668,U00668,Office,"446, Ring Road",Lucknow,Uttar Pradesh,226974,India,Y
+A00669,U00669,Office,"761, MG Road",Bengaluru,Karnataka,560293,India,Y
+A00670,U00670,Home,"841, Sector 21",Lucknow,Uttar Pradesh,226557,India,Y
+A00671,U00671,Permanent,"744, Ring Road",Chandigarh,Chandigarh,160553,India,Y
+A00672,U00672,Home,"417, Station Road",Kochi,Kerala,682594,India,Y
+A00673,U00673,Permanent,"786, Nehru Place",Ahmedabad,Gujarat,380151,India,Y
+A00674,U00674,Home,"418, Civil Lines",Ahmedabad,Gujarat,380984,India,Y
+A00675,U00675,Home,"141, Civil Lines",Lucknow,Uttar Pradesh,226946,India,Y
+A00676,U00676,Home,"553, Residency Road",Ahmedabad,Gujarat,380168,India,Y
+A00677,U00677,Home,"881, Residency Road",Chennai,Tamil Nadu,600148,India,Y
+A00678,U00678,Home,"763, Station Road",Jaipur,Rajasthan,302871,India,Y
+A00679,U00679,Permanent,"812, Park Street",Pune,Maharashtra,411844,India,Y
+A00680,U00680,Office,"902, Gandhi Nagar",Mumbai,Maharashtra,400513,India,Y
+A00681,U00681,Home,"5, Nehru Place",Jaipur,Rajasthan,302956,India,Y
+A00682,U00682,Office,"701, Green Park",Pune,Maharashtra,411806,India,Y
+A00683,U00683,Home,"857, Civil Lines",Mumbai,Maharashtra,400561,India,N
+A00684,U00684,Home,"403, Park Street",Jaipur,Rajasthan,302590,India,Y
+A00685,U00685,Home,"109, Park Street",Kolkata,West Bengal,700655,India,Y
+A00686,U00686,Office,"917, Park Street",Pune,Maharashtra,411733,India,Y
+A00687,U00687,Office,"508, Station Road",Jaipur,Rajasthan,302937,India,Y
+A00688,U00688,Home,"416, Nehru Place",Hyderabad,Telangana,500845,India,Y
+A00689,U00689,Home,"835, Park Street",Chandigarh,Chandigarh,160024,India,Y
+A00690,U00690,Home,"191, Residency Road",Hyderabad,Telangana,500073,India,Y
+A00691,U00691,Permanent,"433, Civil Lines",Ahmedabad,Gujarat,380677,India,Y
+A00692,U00692,Home,"352, Lake View Colony",Kochi,Kerala,682383,India,Y
+A00693,U00693,Home,"942, Sector 21",Kolkata,West Bengal,700650,India,Y
+A00694,U00694,Home,"33, Sector 21",Delhi,Delhi,110327,India,Y
+A00695,U00695,Office,"882, Lake View Colony",Hyderabad,Telangana,500770,India,Y
+A00696,U00696,Home,"602, Model Town",Mumbai,Maharashtra,400901,India,Y
+A00697,U00697,Home,"28, Lake View Colony",Chandigarh,Chandigarh,160039,India,N
+A00698,U00698,Home,"557, Gandhi Nagar",Mumbai,Maharashtra,400084,India,Y
+A00699,U00699,Home,"97, Sector 21",Kochi,Kerala,682388,India,Y
+A00700,U00700,Home,"481, MG Road",Bengaluru,Karnataka,560330,India,Y
+A00701,U00701,Permanent,"222, Model Town",Kochi,Kerala,682420,India,Y
+A00702,U00702,Home,"884, Residency Road",Chandigarh,Chandigarh,160799,India,Y
+A00703,U00703,Home,"515, Station Road",Jaipur,Rajasthan,302474,India,Y
+A00704,U00704,Home,"948, Ring Road",Lucknow,Uttar Pradesh,226669,India,Y
+A00705,U00705,Home,"715, Ring Road",Hyderabad,Telangana,500502,India,Y
+A00706,U00706,Home,"167, MG Road",Ahmedabad,Gujarat,380297,India,Y
+A00707,U00707,Home,"159, Gandhi Nagar",Kolkata,West Bengal,700203,India,Y
+A00708,U00708,Home,"795, Green Park",Bengaluru,Karnataka,560826,India,Y
+A00709,U00709,Office,"45, Nehru Place",Pune,Maharashtra,411187,India,Y
+A00710,U00710,Home,"506, Park Street",Chandigarh,Chandigarh,160730,India,Y
+A00711,U00711,Permanent,"119, Gandhi Nagar",Kochi,Kerala,682168,India,Y
+A00712,U00712,Permanent,"620, Model Town",Kochi,Kerala,682024,India,Y
+A00713,U00713,Office,"441, MG Road",Chennai,Tamil Nadu,600725,India,Y
+A00714,U00714,Home,"557, Gandhi Nagar",Kochi,Kerala,682428,India,Y
+A00715,U00715,Home,"719, Lake View Colony",Hyderabad,Telangana,500068,India,Y
+A00716,U00716,Permanent,"681, Civil Lines",Hyderabad,Telangana,500486,India,Y
+A00717,U00717,Permanent,"897, Station Road",Bengaluru,Karnataka,560123,India,Y
+A00718,U00718,Home,"681, Park Street",Mumbai,Maharashtra,400456,India,Y
+A00719,U00719,Home,"270, Sector 21",Jaipur,Rajasthan,302068,India,N
+A00720,U00720,Home,"424, Gandhi Nagar",Chandigarh,Chandigarh,160573,India,Y
+A00721,U00721,Home,"137, Green Park",Bengaluru,Karnataka,560718,India,Y
+A00722,U00722,Home,"808, MG Road",Chennai,Tamil Nadu,600115,India,Y
+A00723,U00723,Home,"10, Nehru Place",Hyderabad,Telangana,500901,India,Y
+A00724,U00724,Permanent,"882, Sector 21",Chennai,Tamil Nadu,600820,India,Y
+A00725,U00725,Home,"491, Park Street",Chandigarh,Chandigarh,160101,India,Y
+A00726,U00726,Home,"555, Gandhi Nagar",Jaipur,Rajasthan,302149,India,Y
+A00727,U00727,Home,"779, Gandhi Nagar",Jaipur,Rajasthan,302489,India,Y
+A00728,U00728,Home,"253, Residency Road",Mumbai,Maharashtra,400771,India,Y
+A00729,U00729,Home,"231, Nehru Place",Chandigarh,Chandigarh,160416,India,Y
+A00730,U00730,Home,"329, Lake View Colony",Kolkata,West Bengal,700028,India,Y
+A00731,U00731,Permanent,"401, Sector 21",Kochi,Kerala,682620,India,Y
+A00732,U00732,Office,"131, Sector 21",Bengaluru,Karnataka,560629,India,N
+A00733,U00733,Permanent,"662, Residency Road",Jaipur,Rajasthan,302161,India,Y
+A00734,U00734,Home,"792, Gandhi Nagar",Jaipur,Rajasthan,302443,India,Y
+A00735,U00735,Home,"87, Green Park",Kolkata,West Bengal,700913,India,Y
+A00736,U00736,Home,"285, Lake View Colony",Chandigarh,Chandigarh,160287,India,Y
+A00737,U00737,Home,"549, Model Town",Chennai,Tamil Nadu,600334,India,N
+A00738,U00738,Home,"396, Green Park",Ahmedabad,Gujarat,380603,India,Y
+A00739,U00739,Home,"677, Model Town",Chandigarh,Chandigarh,160140,India,Y
+A00740,U00740,Home,"999, Civil Lines",Mumbai,Maharashtra,400545,India,Y
+A00741,U00741,Home,"645, Nehru Place",Chandigarh,Chandigarh,160956,India,Y
+A00742,U00742,Home,"234, Civil Lines",Hyderabad,Telangana,500949,India,N
+A00743,U00743,Home,"357, Nehru Place",Bengaluru,Karnataka,560196,India,Y
+A00744,U00744,Home,"286, Nehru Place",Jaipur,Rajasthan,302612,India,Y
+A00745,U00745,Home,"628, Station Road",Chandigarh,Chandigarh,160821,India,Y
+A00746,U00746,Home,"703, Civil Lines",Hyderabad,Telangana,500729,India,Y
+A00747,U00747,Home,"474, Model Town",Chennai,Tamil Nadu,600532,India,Y
+A00748,U00748,Office,"299, Residency Road",Kochi,Kerala,682252,India,Y
+A00749,U00749,Office,"188, Residency Road",Chandigarh,Chandigarh,160829,India,Y
+A00750,U00750,Home,"735, Nehru Place",Bengaluru,Karnataka,560954,India,Y
+A00751,U00751,Home,"261, Model Town",Jaipur,Rajasthan,302073,India,Y
+A00752,U00752,Office,"403, MG Road",Kolkata,West Bengal,700068,India,Y
+A00753,U00753,Permanent,"466, Ring Road",Hyderabad,Telangana,500597,India,Y
+A00754,U00754,Home,"204, Nehru Place",Jaipur,Rajasthan,302052,India,N
+A00755,U00755,Permanent,"610, Gandhi Nagar",Chandigarh,Chandigarh,160487,India,Y
+A00756,U00756,Home,"186, Gandhi Nagar",Chennai,Tamil Nadu,600370,India,Y
+A00757,U00757,Home,"72, Nehru Place",Delhi,Delhi,110110,India,Y
+A00758,U00758,Home,"99, Green Park",Hyderabad,Telangana,500703,India,Y
+A00759,U00759,Permanent,"581, MG Road",Delhi,Delhi,110010,India,Y
+A00760,U00760,Office,"292, Lake View Colony",Lucknow,Uttar Pradesh,226246,India,Y
+A00761,U00761,Home,"770, Nehru Place",Lucknow,Uttar Pradesh,226950,India,Y
+A00762,U00762,Home,"567, Model Town",Bengaluru,Karnataka,560324,India,Y
+A00763,U00763,Office,"845, Lake View Colony",Pune,Maharashtra,411208,India,Y
+A00764,U00764,Permanent,"94, Model Town",Delhi,Delhi,110758,India,Y
+A00765,U00765,Office,"128, Gandhi Nagar",Hyderabad,Telangana,500252,India,Y
+A00766,U00766,Home,"625, Station Road",Bengaluru,Karnataka,560913,India,Y
+A00767,U00767,Home,"4, Park Street",Bengaluru,Karnataka,560687,India,Y
+A00768,U00768,Permanent,"870, Lake View Colony",Lucknow,Uttar Pradesh,226456,India,Y
+A00769,U00769,Office,"419, Green Park",Mumbai,Maharashtra,400454,India,Y
+A00770,U00770,Permanent,"872, Model Town",Kochi,Kerala,682768,India,Y
+A00771,U00771,Office,"211, Residency Road",Jaipur,Rajasthan,302503,India,Y
+A00772,U00772,Home,"22, Sector 21",Jaipur,Rajasthan,302519,India,Y
+A00773,U00773,Home,"382, Station Road",Ahmedabad,Gujarat,380720,India,Y
+A00774,U00774,Home,"173, Lake View Colony",Kochi,Kerala,682212,India,Y
+A00775,U00775,Home,"255, Green Park",Chennai,Tamil Nadu,600297,India,Y
+A00776,U00776,Home,"481, MG Road",Kolkata,West Bengal,700702,India,N
+A00777,U00777,Home,"67, Sector 21",Bengaluru,Karnataka,560730,India,Y
+A00778,U00778,Home,"369, Lake View Colony",Kolkata,West Bengal,700020,India,Y
+A00779,U00779,Home,"435, Gandhi Nagar",Kochi,Kerala,682447,India,Y
+A00780,U00780,Home,"934, Nehru Place",Bengaluru,Karnataka,560490,India,Y
+A00781,U00781,Permanent,"661, Ring Road",Bengaluru,Karnataka,560613,India,Y
+A00782,U00782,Office,"391, Civil Lines",Bengaluru,Karnataka,560049,India,Y
+A00783,U00783,Office,"163, Gandhi Nagar",Mumbai,Maharashtra,400630,India,Y
+A00784,U00784,Home,"538, Nehru Place",Delhi,Delhi,110463,India,Y
+A00785,U00785,Permanent,"286, Station Road",Pune,Maharashtra,411234,India,Y
+A00786,U00786,Home,"238, Gandhi Nagar",Pune,Maharashtra,411635,India,Y
+A00787,U00787,Office,"893, Green Park",Chandigarh,Chandigarh,160180,India,Y
+A00788,U00788,Permanent,"917, Station Road",Ahmedabad,Gujarat,380241,India,Y
+A00789,U00789,Home,"79, Gandhi Nagar",Bengaluru,Karnataka,560791,India,Y
+A00790,U00790,Home,"798, Sector 21",Pune,Maharashtra,411566,India,Y
+A00791,U00791,Home,"547, Station Road",Kochi,Kerala,682251,India,Y
+A00792,U00792,Permanent,"785, Nehru Place",Chennai,Tamil Nadu,600525,India,Y
+A00793,U00793,Home,"59, Lake View Colony",Jaipur,Rajasthan,302138,India,Y
+A00794,U00794,Home,"136, Park Street",Ahmedabad,Gujarat,380882,India,Y
+A00795,U00795,Home,"286, Sector 21",Chennai,Tamil Nadu,600251,India,Y
+A00796,U00796,Home,"255, Station Road",Kochi,Kerala,682655,India,Y
+A00797,U00797,Home,"387, Station Road",Delhi,Delhi,110000,India,Y
+A00798,U00798,Office,"694, Lake View Colony",Jaipur,Rajasthan,302563,India,Y
+A00799,U00799,Permanent,"478, Residency Road",Kolkata,West Bengal,700965,India,Y
+A00800,U00800,Home,"858, Green Park",Lucknow,Uttar Pradesh,226414,India,Y
+A00801,U00801,Permanent,"171, Ring Road",Jaipur,Rajasthan,302878,India,Y
+A00802,U00802,Home,"615, Civil Lines",Delhi,Delhi,110862,India,Y
+A00803,U00803,Permanent,"392, Lake View Colony",Lucknow,Uttar Pradesh,226306,India,Y
+A00804,U00804,Home,"769, MG Road",Chennai,Tamil Nadu,600220,India,Y
+A00805,U00805,Office,"461, Model Town",Chandigarh,Chandigarh,160809,India,Y
+A00806,U00806,Home,"310, Lake View Colony",Pune,Maharashtra,411250,India,Y
+A00807,U00807,Permanent,"259, Sector 21",Bengaluru,Karnataka,560408,India,Y
+A00808,U00808,Home,"210, Sector 21",Ahmedabad,Gujarat,380133,India,Y
+A00809,U00809,Home,"150, Residency Road",Delhi,Delhi,110944,India,Y
+A00810,U00810,Home,"477, Lake View Colony",Chennai,Tamil Nadu,600908,India,Y
+A00811,U00811,Home,"302, Civil Lines",Kolkata,West Bengal,700840,India,Y
+A00812,U00812,Home,"890, Sector 21",Ahmedabad,Gujarat,380069,India,Y
+A00813,U00813,Home,"519, Station Road",Bengaluru,Karnataka,560011,India,N
+A00814,U00814,Office,"576, Nehru Place",Pune,Maharashtra,411061,India,Y
+A00815,U00815,Home,"381, MG Road",Bengaluru,Karnataka,560459,India,Y
+A00816,U00816,Home,"637, Civil Lines",Lucknow,Uttar Pradesh,226291,India,Y
+A00817,U00817,Home,"905, Sector 21",Jaipur,Rajasthan,302776,India,Y
+A00818,U00818,Home,"799, Ring Road",Jaipur,Rajasthan,302746,India,Y
+A00819,U00819,Home,"992, Station Road",Jaipur,Rajasthan,302955,India,Y
+A00820,U00820,Home,"451, Green Park",Chennai,Tamil Nadu,600739,India,Y
+A00821,U00821,Home,"937, Park Street",Pune,Maharashtra,411095,India,Y
+A00822,U00822,Home,"43, MG Road",Hyderabad,Telangana,500310,India,Y
+A00823,U00823,Home,"583, Park Street",Pune,Maharashtra,411427,India,Y
+A00824,U00824,Home,"582, Nehru Place",Pune,Maharashtra,411938,India,Y
+A00825,U00825,Home,"39, Nehru Place",Mumbai,Maharashtra,400744,India,Y
+A00826,U00826,Home,"938, Station Road",Mumbai,Maharashtra,400947,India,Y
+A00827,U00827,Home,"471, Civil Lines",Mumbai,Maharashtra,400631,India,Y
+A00828,U00828,Permanent,"979, Nehru Place",Chennai,Tamil Nadu,600590,India,Y
+A00829,U00829,Home,"681, Civil Lines",Kochi,Kerala,682539,India,Y
+A00830,U00830,Office,"604, Ring Road",Chandigarh,Chandigarh,160698,India,Y
+A00831,U00831,Office,"252, Park Street",Lucknow,Uttar Pradesh,226834,India,Y
+A00832,U00832,Home,"963, Ring Road",Ahmedabad,Gujarat,380307,India,Y
+A00833,U00833,Permanent,"53, Model Town",Kochi,Kerala,682307,India,Y
+A00834,U00834,Home,"152, Ring Road",Hyderabad,Telangana,500228,India,Y
+A00835,U00835,Permanent,"255, Sector 21",Bengaluru,Karnataka,560926,India,Y
+A00836,U00836,Home,"518, Civil Lines",Mumbai,Maharashtra,400422,India,Y
+A00837,U00837,Home,"307, Gandhi Nagar",Kolkata,West Bengal,700248,India,Y
+A00838,U00838,Permanent,"679, Gandhi Nagar",Ahmedabad,Gujarat,380793,India,Y
+A00839,U00839,Home,"835, Lake View Colony",Delhi,Delhi,110157,India,Y
+A00840,U00840,Home,"380, Gandhi Nagar",Delhi,Delhi,110315,India,Y
+A00841,U00841,Permanent,"406, Model Town",Ahmedabad,Gujarat,380219,India,Y
+A00842,U00842,Home,"626, Station Road",Bengaluru,Karnataka,560344,India,Y
+A00843,U00843,Home,"874, Gandhi Nagar",Chennai,Tamil Nadu,600103,India,Y
+A00844,U00844,Home,"554, Lake View Colony",Kochi,Kerala,682504,India,Y
+A00845,U00845,Home,"53, MG Road",Kochi,Kerala,682482,India,Y
+A00846,U00846,Home,"864, Civil Lines",Pune,Maharashtra,411695,India,Y
+A00847,U00847,Home,"586, Gandhi Nagar",Kochi,Kerala,682041,India,Y
+A00848,U00848,Home,"40, Model Town",Hyderabad,Telangana,500084,India,N
+A00849,U00849,Home,"945, Park Street",Lucknow,Uttar Pradesh,226808,India,Y
+A00850,U00850,Office,"503, Gandhi Nagar",Kolkata,West Bengal,700273,India,Y
+A00851,U00851,Office,"74, Model Town",Lucknow,Uttar Pradesh,226291,India,Y
+A00852,U00852,Home,"267, Station Road",Ahmedabad,Gujarat,380658,India,Y
+A00853,U00853,Home,"622, Park Street",Jaipur,Rajasthan,302705,India,Y
+A00854,U00854,Permanent,"681, Station Road",Kolkata,West Bengal,700711,India,Y
+A00855,U00855,Home,"522, Nehru Place",Ahmedabad,Gujarat,380300,India,Y
+A00856,U00856,Home,"953, Park Street",Kolkata,West Bengal,700813,India,N
+A00857,U00857,Home,"216, Park Street",Hyderabad,Telangana,500472,India,Y
+A00858,U00858,Home,"61, Model Town",Pune,Maharashtra,411896,India,Y
+A00859,U00859,Permanent,"130, Station Road",Mumbai,Maharashtra,400740,India,Y
+A00860,U00860,Home,"594, Park Street",Chennai,Tamil Nadu,600735,India,Y
+A00861,U00861,Home,"660, Residency Road",Kolkata,West Bengal,700965,India,Y
+A00862,U00862,Home,"960, Green Park",Kochi,Kerala,682214,India,Y
+A00863,U00863,Home,"161, Lake View Colony",Chandigarh,Chandigarh,160196,India,Y
+A00864,U00864,Home,"874, Nehru Place",Delhi,Delhi,110398,India,Y
+A00865,U00865,Home,"990, Lake View Colony",Ahmedabad,Gujarat,380802,India,Y
+A00866,U00866,Home,"836, Civil Lines",Chennai,Tamil Nadu,600763,India,N
+A00867,U00867,Home,"982, Model Town",Kolkata,West Bengal,700888,India,Y
+A00868,U00868,Permanent,"169, Nehru Place",Delhi,Delhi,110425,India,Y
+A00869,U00869,Home,"906, Station Road",Chennai,Tamil Nadu,600245,India,Y
+A00870,U00870,Permanent,"930, Park Street",Ahmedabad,Gujarat,380738,India,Y
+A00871,U00871,Office,"647, Civil Lines",Delhi,Delhi,110728,India,Y
+A00872,U00872,Home,"3, Gandhi Nagar",Lucknow,Uttar Pradesh,226494,India,Y
+A00873,U00873,Home,"152, Civil Lines",Jaipur,Rajasthan,302696,India,Y
+A00874,U00874,Office,"281, Ring Road",Kochi,Kerala,682400,India,Y
+A00875,U00875,Home,"627, Park Street",Lucknow,Uttar Pradesh,226445,India,Y
+A00876,U00876,Office,"466, Green Park",Kochi,Kerala,682605,India,Y
+A00877,U00877,Permanent,"468, MG Road",Jaipur,Rajasthan,302291,India,Y
+A00878,U00878,Home,"989, Gandhi Nagar",Kolkata,West Bengal,700485,India,Y
+A00879,U00879,Permanent,"937, Model Town",Kolkata,West Bengal,700585,India,Y
+A00880,U00880,Office,"229, Sector 21",Chennai,Tamil Nadu,600271,India,Y
+A00881,U00881,Permanent,"837, Park Street",Chandigarh,Chandigarh,160684,India,N
+A00882,U00882,Home,"5, Ring Road",Hyderabad,Telangana,500234,India,Y
+A00883,U00883,Home,"3, Lake View Colony",Ahmedabad,Gujarat,380048,India,N
+A00884,U00884,Home,"922, Ring Road",Hyderabad,Telangana,500962,India,Y
+A00885,U00885,Permanent,"751, Residency Road",Jaipur,Rajasthan,302806,India,Y
+A00886,U00886,Home,"509, Model Town",Lucknow,Uttar Pradesh,226218,India,Y
+A00887,U00887,Home,"119, Park Street",Jaipur,Rajasthan,302947,India,N
+A00888,U00888,Office,"182, Ring Road",Jaipur,Rajasthan,302671,India,Y
+A00889,U00889,Home,"337, Residency Road",Chandigarh,Chandigarh,160251,India,N
+A00890,U00890,Home,"954, Green Park",Delhi,Delhi,110748,India,Y
+A00891,U00891,Home,"264, Lake View Colony",Chandigarh,Chandigarh,160165,India,N
+A00892,U00892,Office,"371, Gandhi Nagar",Bengaluru,Karnataka,560783,India,N
+A00893,U00893,Permanent,"709, Ring Road",Hyderabad,Telangana,500654,India,Y
+A00894,U00894,Permanent,"874, MG Road",Pune,Maharashtra,411976,India,Y
+A00895,U00895,Permanent,"117, Sector 21",Hyderabad,Telangana,500345,India,Y
+A00896,U00896,Home,"126, Sector 21",Jaipur,Rajasthan,302684,India,Y
+A00897,U00897,Home,"95, Civil Lines",Mumbai,Maharashtra,400180,India,Y
+A00898,U00898,Home,"257, Green Park",Bengaluru,Karnataka,560018,India,N
+A00899,U00899,Office,"813, Gandhi Nagar",Lucknow,Uttar Pradesh,226064,India,Y
+A00900,U00900,Home,"835, Green Park",Chennai,Tamil Nadu,600547,India,Y
+A00901,U00901,Home,"349, Lake View Colony",Chandigarh,Chandigarh,160811,India,Y
+A00902,U00902,Office,"795, Lake View Colony",Mumbai,Maharashtra,400217,India,Y
+A00903,U00903,Home,"793, Model Town",Lucknow,Uttar Pradesh,226765,India,Y
+A00904,U00904,Home,"673, Sector 21",Kochi,Kerala,682570,India,Y
+A00905,U00905,Home,"378, Park Street",Kolkata,West Bengal,700921,India,Y
+A00906,U00906,Home,"585, Civil Lines",Ahmedabad,Gujarat,380017,India,N
+A00907,U00907,Home,"426, Green Park",Chennai,Tamil Nadu,600857,India,Y
+A00908,U00908,Permanent,"88, Station Road",Chennai,Tamil Nadu,600863,India,Y
+A00909,U00909,Home,"120, Model Town",Jaipur,Rajasthan,302139,India,Y
+A00910,U00910,Permanent,"744, Civil Lines",Jaipur,Rajasthan,302122,India,Y
+A00911,U00911,Office,"654, Civil Lines",Delhi,Delhi,110251,India,Y
+A00912,U00912,Home,"880, Gandhi Nagar",Kolkata,West Bengal,700056,India,N
+A00913,U00913,Permanent,"141, Green Park",Chandigarh,Chandigarh,160264,India,Y
+A00914,U00914,Home,"871, Lake View Colony",Pune,Maharashtra,411076,India,N
+A00915,U00915,Home,"316, Green Park",Chennai,Tamil Nadu,600307,India,Y
+A00916,U00916,Permanent,"336, Station Road",Delhi,Delhi,110728,India,Y
+A00917,U00917,Permanent,"618, Model Town",Pune,Maharashtra,411872,India,Y
+A00918,U00918,Home,"271, Civil Lines",Mumbai,Maharashtra,400325,India,Y
+A00919,U00919,Home,"597, Gandhi Nagar",Pune,Maharashtra,411237,India,Y
+A00920,U00920,Office,"564, Ring Road",Hyderabad,Telangana,500934,India,Y
+A00921,U00921,Home,"592, Green Park",Kochi,Kerala,682559,India,Y
+A00922,U00922,Home,"103, Lake View Colony",Jaipur,Rajasthan,302770,India,N
+A00923,U00923,Permanent,"431, Gandhi Nagar",Hyderabad,Telangana,500673,India,Y
+A00924,U00924,Home,"71, Gandhi Nagar",Kochi,Kerala,682971,India,N
+A00925,U00925,Home,"489, MG Road",Delhi,Delhi,110480,India,Y
+A00926,U00926,Home,"271, Station Road",Kolkata,West Bengal,700605,India,N
+A00927,U00927,Home,"173, Station Road",Bengaluru,Karnataka,560664,India,N
+A00928,U00928,Permanent,"646, MG Road",Kochi,Kerala,682481,India,Y
+A00929,U00929,Home,"756, Residency Road",Kochi,Kerala,682521,India,Y
+A00930,U00930,Home,"536, Nehru Place",Kolkata,West Bengal,700590,India,Y
+A00931,U00931,Home,"244, MG Road",Bengaluru,Karnataka,560440,India,Y
+A00932,U00932,Home,"845, Ring Road",Chandigarh,Chandigarh,160299,India,Y
+A00933,U00933,Permanent,"422, Model Town",Kolkata,West Bengal,700294,India,Y
+A00934,U00934,Permanent,"128, Green Park",Lucknow,Uttar Pradesh,226430,India,Y
+A00935,U00935,Home,"118, Lake View Colony",Lucknow,Uttar Pradesh,226604,India,Y
+A00936,U00936,Home,"591, Station Road",Hyderabad,Telangana,500833,India,Y
+A00937,U00937,Permanent,"255, Station Road",Mumbai,Maharashtra,400728,India,Y
+A00938,U00938,Office,"749, Gandhi Nagar",Bengaluru,Karnataka,560700,India,Y
+A00939,U00939,Home,"116, Model Town",Bengaluru,Karnataka,560002,India,Y
+A00940,U00940,Home,"713, MG Road",Kochi,Kerala,682423,India,Y
+A00941,U00941,Home,"151, Green Park",Bengaluru,Karnataka,560663,India,Y
+A00942,U00942,Home,"421, Lake View Colony",Chennai,Tamil Nadu,600675,India,Y
+A00943,U00943,Home,"207, Residency Road",Hyderabad,Telangana,500149,India,Y
+A00944,U00944,Home,"682, Residency Road",Chennai,Tamil Nadu,600248,India,Y
+A00945,U00945,Home,"259, MG Road",Hyderabad,Telangana,500443,India,Y
+A00946,U00946,Office,"854, MG Road",Delhi,Delhi,110766,India,Y
+A00947,U00947,Home,"114, Nehru Place",Hyderabad,Telangana,500144,India,Y
+A00948,U00948,Home,"15, Sector 21",Pune,Maharashtra,411804,India,Y
+A00949,U00949,Home,"357, Nehru Place",Mumbai,Maharashtra,400659,India,Y
+A00950,U00950,Home,"283, Sector 21",Bengaluru,Karnataka,560986,India,Y
+A00951,U00951,Home,"449, Station Road",Pune,Maharashtra,411017,India,Y
+A00952,U00952,Home,"225, Ring Road",Chandigarh,Chandigarh,160521,India,Y
+A00953,U00953,Home,"739, Civil Lines",Pune,Maharashtra,411534,India,Y
+A00954,U00954,Home,"675, Ring Road",Mumbai,Maharashtra,400818,India,Y
+A00955,U00955,Home,"581, Gandhi Nagar",Kolkata,West Bengal,700247,India,Y
+A00956,U00956,Office,"776, Residency Road",Hyderabad,Telangana,500953,India,Y
+A00957,U00957,Home,"947, Ring Road",Lucknow,Uttar Pradesh,226943,India,Y
+A00958,U00958,Permanent,"4, Station Road",Ahmedabad,Gujarat,380981,India,Y
+A00959,U00959,Office,"430, Model Town",Kochi,Kerala,682349,India,Y
+A00960,U00960,Home,"751, Nehru Place",Bengaluru,Karnataka,560738,India,Y
+A00961,U00961,Home,"279, Model Town",Hyderabad,Telangana,500204,India,Y
+A00962,U00962,Office,"617, Model Town",Chandigarh,Chandigarh,160577,India,Y
+A00963,U00963,Home,"201, Park Street",Kolkata,West Bengal,700332,India,Y
+A00964,U00964,Home,"778, Park Street",Chennai,Tamil Nadu,600545,India,Y
+A00965,U00965,Home,"576, MG Road",Bengaluru,Karnataka,560706,India,Y
+A00966,U00966,Permanent,"237, Lake View Colony",Lucknow,Uttar Pradesh,226887,India,Y
+A00967,U00967,Home,"757, Gandhi Nagar",Ahmedabad,Gujarat,380105,India,Y
+A00968,U00968,Home,"139, Park Street",Jaipur,Rajasthan,302755,India,Y
+A00969,U00969,Home,"263, MG Road",Chennai,Tamil Nadu,600940,India,Y
+A00970,U00970,Permanent,"659, Model Town",Mumbai,Maharashtra,400911,India,Y
+A00971,U00971,Home,"946, Park Street",Bengaluru,Karnataka,560626,India,Y
+A00972,U00972,Office,"550, Green Park",Hyderabad,Telangana,500644,India,N
+A00973,U00973,Home,"706, Nehru Place",Bengaluru,Karnataka,560554,India,Y
+A00974,U00974,Office,"949, Sector 21",Kochi,Kerala,682836,India,N
+A00975,U00975,Permanent,"103, Gandhi Nagar",Kolkata,West Bengal,700515,India,Y
+A00976,U00976,Home,"438, Green Park",Lucknow,Uttar Pradesh,226357,India,N
+A00977,U00977,Home,"169, MG Road",Ahmedabad,Gujarat,380756,India,Y
+A00978,U00978,Home,"684, Nehru Place",Chandigarh,Chandigarh,160197,India,Y
+A00979,U00979,Home,"47, Green Park",Pune,Maharashtra,411183,India,Y
+A00980,U00980,Home,"303, Sector 21",Bengaluru,Karnataka,560062,India,Y
+A00981,U00981,Home,"33, Gandhi Nagar",Bengaluru,Karnataka,560743,India,N
+A00982,U00982,Home,"775, Nehru Place",Bengaluru,Karnataka,560854,India,Y
+A00983,U00983,Home,"854, Station Road",Pune,Maharashtra,411485,India,Y
+A00984,U00984,Home,"546, Station Road",Pune,Maharashtra,411700,India,Y
+A00985,U00985,Home,"783, Station Road",Kolkata,West Bengal,700216,India,Y
+A00986,U00986,Home,"235, Green Park",Kolkata,West Bengal,700832,India,Y
+A00987,U00987,Home,"569, Residency Road",Kochi,Kerala,682543,India,N
+A00988,U00988,Permanent,"940, Model Town",Lucknow,Uttar Pradesh,226337,India,Y
+A00989,U00989,Office,"609, Ring Road",Pune,Maharashtra,411676,India,Y
+A00990,U00990,Home,"626, Sector 21",Ahmedabad,Gujarat,380285,India,Y
+A00991,U00991,Home,"752, MG Road",Lucknow,Uttar Pradesh,226200,India,Y
+A00992,U00992,Office,"477, Gandhi Nagar",Kolkata,West Bengal,700895,India,Y
+A00993,U00993,Home,"56, Park Street",Kochi,Kerala,682754,India,Y
+A00994,U00994,Home,"405, Residency Road",Mumbai,Maharashtra,400594,India,Y
+A00995,U00995,Home,"185, Ring Road",Pune,Maharashtra,411896,India,Y
+A00996,U00996,Home,"52, Ring Road",Pune,Maharashtra,411878,India,Y
+A00997,U00997,Home,"566, Gandhi Nagar",Mumbai,Maharashtra,400347,India,Y
+A00998,U00998,Home,"341, Ring Road",Mumbai,Maharashtra,400139,India,Y
+A00999,U00999,Home,"871, Park Street",Delhi,Delhi,110143,India,Y
+A01000,U01000,Home,"92, Ring Road",Bengaluru,Karnataka,560151,India,Y
